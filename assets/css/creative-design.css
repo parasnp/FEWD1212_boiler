@@ -1,0 +1,108 @@
+/*to be filled  border(style,width,color) and background(url,color)*/
+header {
+ 
+
+  text-align: center;
+  color: white;
+  position: relative;
+  height: 598px;
+}
+.header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+}
+/*to be filled border style width color*/
+
+.header .header-content {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+
+  
+  text-align: ‌ center;
+  color: #fff;
+}
+
+
+
+/*irrelavant to excersice*/
+
+.header .header-content p {
+  color: white;
+  opacity: 1;
+  margin-bottom: 5px;
+  font-size: 40px;
+}
+
+.header .header-content h6 {
+  margin-bottom: 25px;
+  font-size: 30px;
+}
+
+.header-title {
+  font-size: 2.4rem;
+  font-weight: bold;
+  opacity: .8;
+}
+
+
+
+body,
+html {
+  height: 100%;
+}
+
+section {
+  padding: 100px 0;
+}
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: left;
+  background-color: #fff;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+header, section {
+  display: block;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
