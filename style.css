@@ -1,0 +1,23 @@
+/*iteration1 using background properties  repeat url and size set the given image home as background*/
+body
+{
+
+}
+/*iteration 2 using border properties  border radius width type and color  create border with the following specification:
+  set the right border as doubled
+  readius:1em
+  top-right-readius:10% and 30%
+  width:5px
+  and define a linear gradient of 105 deg with rgba(0,249,255,1) , rgba(51,56,57,1)  at 30% and 90% transparency respectively
+*/
+.Background
+{
+  
+  margin:30%;
+  margin-top: 20%;
+  text-align: center;
+  color:white;
+
+
+}
+
