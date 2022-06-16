@@ -1,23 +1,15 @@
-/*iteration1 using background properties  repeat url and size set the given image home as background*/
+/*Iteration 1 : Using background properties "url","repeat","size" set the image "Home.jpg" as a non repeating background image covering the entire div.*/
 body
 {
-
 }
-/*iteration 2 using border properties  border radius width type and color  create border with the following specification:
-  set the right border as doubled
-  readius:1em
-  top-right-readius:10% and 30%
-  width:5px
-  and define a linear gradient of 105 deg with rgba(0,249,255,1) , rgba(51,56,57,1)  at 30% and 90% transparency respectively
-*/
+
 .Background
 {
-  
+  /*Iteration 2: Using Border properties "border" "border-style" "border-radius" define a solid black border with a width of 10px and a radius of 2em for the div.*/
   margin:30%;
   margin-top: 20%;
   text-align: center;
   color:white;
-
-
+  /*Iteration 3: Using the "background-image" property define a linear gradient for the div at 105deg having two colors rgba(0,249,255,1) at 39 percent transparency
+    and  rgba(51,56,57,1) at 90 percent transparency.*/
 }
-
