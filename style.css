@@ -2,6 +2,7 @@
 body
 {
 }
+
 .background{ /*Iteration 2: Using Border properties "border" "border-style" "border-radius" define a solid black border with a width of 10px and a radius of 2em for the div.*/
   margin:30%;
   margin-top: 20%;
